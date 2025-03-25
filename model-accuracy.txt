@@ -1,0 +1,6 @@
+model 1 - 60% accuracy
+model 2 - 88.33% accuracy, 74% loss
+model 3 - 87.08% accuracy, 47.82% loss
+model 4 - 92.06% accuracy, 28.86% loss
+model 5 - 94.58% accuracy, 28.23% loss
+model 6 - 
